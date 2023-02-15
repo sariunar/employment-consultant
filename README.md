@@ -7,7 +7,7 @@ Link: https://sariunar.github.io/employment-consultant/
 
 Stack:
 
-✓   HTML5
-✓   CSS3
-✓   Flexbox
-✓   JavaScript
+    ✓   HTML5
+    ✓   CSS3
+    ✓   Flexbox
+    ✓   JavaScript
