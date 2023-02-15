@@ -1,5 +1,4 @@
-# employment-consultant
-# Карьерный консультант для экспатов
+# employment-consultant / Карьерный консультант для экспатов
 A website for career consultant. Group project in ITGirlSchool
 
 Link: https://sariunar.github.io/employment-consultant/
